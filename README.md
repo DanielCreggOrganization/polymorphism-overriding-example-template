@@ -1,5 +1,5 @@
-# polymorphism-overloading-example-template
-Overloading
+# polymorphism-overriding-example-template
+Overriding
 
 Step 1: Create a Main class with a main method and print **Hello** to the console  
 Step 2: Fill out the TwoDShape class  
