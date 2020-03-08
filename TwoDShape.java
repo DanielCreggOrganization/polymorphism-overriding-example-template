@@ -1,3 +1,3 @@
-public calss TwoDShape() {
+public class TwoDShape() {
 
 }
