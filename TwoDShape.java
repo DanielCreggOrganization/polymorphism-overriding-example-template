@@ -1,4 +1,4 @@
-public class TwoDShape() {
+public class TwoDShape {
   
   // Instance Varibales
   private double width;
